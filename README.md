@@ -1,4 +1,4 @@
-Entrar no link do github, baixar o arquivo "SupermarketApp" e descompactar o mesmo.
+Entrar no link do github, baixar o arquivo "APPAPI" e descompactar o mesmo.
 
 Clicar com o botão direito do mouse dentro da pasta, em seguida, selecionar abrir terminal.
 
